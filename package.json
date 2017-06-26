@@ -9,17 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JacopoDaeli/realtime-graphql.git"
+    "url": "git+https://github.com/markpereira17/realtime-graphql.git"
   },
-  "author": "Jacopo Daeli <jacopo.daeli@gmail.com>",
+  "authors": "Jacopo Daeli & Mark Pereira",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JacopoDaeli/realtime-graphql/issues"
+    "url": "https://github.com/markpereira17/real-events/issues"
   },
-  "homepage": "https://github.com/JacopoDaeli/realtime-graphql#readme",
+  "homepage": "https://github.com/markpereira17/real-events#readme",
   "dependencies": {
     "express": "^4.14.1",
     "express-graphql": "^0.6.3",
+    "graphiql": "^0.10.2",
     "graphql": "^0.9.1",
     "mqtt": "^2.3.1",
     "mqtt-connection": "^3.0.0"
