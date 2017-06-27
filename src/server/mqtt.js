@@ -1,4 +1,4 @@
-'use strict'
+cd c'use strict'
 
 const net = require('net')
 const mqttCon = require('mqtt-connection')
